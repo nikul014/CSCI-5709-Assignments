@@ -1,9 +1,7 @@
 
-
-// tailwind.config.js
 const {APP_THEME, BACKGROUND_COLOR} = require("./src/constants/colors");
 module.exports = {
-  purge: ['./src/**/*.html', './src/**/*.js', './src/**/*.jsx', './src/**/*.ts', './src/**/*.tsx'], // Adjust paths as necessary
+  purge: ['./src/**/*.html', './src/**/*.js', './src/**/*.jsx', './src/**/*.ts', './src/**/*.tsx'],
   darkMode: false,
   theme: {
     extend: {
