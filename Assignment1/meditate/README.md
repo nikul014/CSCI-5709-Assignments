@@ -224,7 +224,7 @@ function LiveSession() {
     };
 
 
-    const handleEditSession = (session) => {
+    const handleEditSession = (sessio[A1_README_Kukadiya_Nikulkumar.md](..%2FA1_Kukadiya_Nikulkumar%2FA1%2FA1_README_Kukadiya_Nikulkumar.md)n) => {
         setTitle(session.title);
         setDescription(session.description);
         // Convert the date to ISO string format
@@ -245,7 +245,7 @@ function LiveSession() {
         setSessionsList(updatedSessionsList);
     };
 
-    const [currentView, setCurrentView] = useState('main');
+    const [currentView, setCurrentView] = useSt[A1_README_Kukadiya_Nikulkumar.md](..%2FA1_Kukadiya_Nikulkumar%2FA1%2FA1_README_Kukadiya_Nikulkumar.md)ate('main');
 
 
     const [startSession, setStartSession] = useState({});
@@ -688,6 +688,19 @@ module.exports = {
 ```
 The CSS provided above is utilized to define the theme and styling elements for the application, including buttons and color schemes.
 
+### References
+
+[1]	"React", React. [Online]. Available at: https://react.dev/  [Accessed: 05 June 2024]
+
+[2]	"Tailwind CSS", Tailwind Labs Inc. [Online]. Available at: https://tailwindcss.com/  [Accessed: 05 June 2024]
+
+[3]	"Netlify", Netlify. [Online]. Available at: https://www.netlify.com/ [Accessed: 05 June 2024]
+
+[4]	V. Jakes, "Woman Meditating Early in the Morning Overlooking a Mountain Scenery," picjumbo. [Online]. Available: https://picjumbo.com/woman-meditating-early-in-the-morning-overlooking-a-mountain-scenery/  [Accessed: 05 June 2024].
+
+[5] "How to turn off the webcam in React?," Stack Overflow. [Online]. Available: https://stackoverflow.com/questions/74651316/how-to-turn-off-the-webcam-in-react. [Accessed: 05 June 2024].
+
+[6]  "React Webcam Disable Buttons Until Stream Starts", Stack Overflow. [Online]. Available at: https://stackoverflow.com/questions/72062262/react-webcam-disable-buttons-until-stream-starts [Accessed: 05 June 2024]
 
 ## Acknowledgments
 
