@@ -42,8 +42,8 @@ const App = () => {
                             </button>
                         </div>
                         <div>
-                            <img src="https://avatar.iran.liara.run/public/41" alt="Profile Image"
-                                 className="h-12 w-12 rounded-full mr-2"/>
+                            <img src="https://avatar.iran.liara.run/public/41"
+                                 className="h-12 w-12 rounded-full mr-2" alt="profile"/>
                         </div>
                     </div>
                 </nav>
@@ -65,7 +65,7 @@ const App = () => {
                     <nav className="w-64 bg-white shadow-md lg:block hidden">
                         <div className="flex flex-col h-screen">
                             <div className="flex items-center p-4">
-                                <img src="logo.png" alt="Logo" className="h-12 w-12 rounded-full mr-2"/>
+                                <img src="logo.png" alt="profile" className="h-12 w-12 rounded-full mr-2"/>
                                 <span className="text-xl font-bold">CalmEssence</span>
 
                             </div>
@@ -81,7 +81,7 @@ const App = () => {
 
                             <div className="p-4">
                                 <div className="flex items-center">
-                                    <img src="https://avatar.iran.liara.run/public/41" alt="Profile Image"
+                                    <img src="https://avatar.iran.liara.run/public/41" alt="profile"
                                          className="h-12 w-12 rounded-full mr-2"/>
                                     <div>
                                         <p className="font-semibold">Nikul Kukadiya</p>
