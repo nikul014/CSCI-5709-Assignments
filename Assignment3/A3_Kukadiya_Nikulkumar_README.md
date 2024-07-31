@@ -95,6 +95,9 @@ The `calmessence` folder contains the frontend code, organized as follows:
 * [React](https://legacy.reactjs.org/docs/getting-started.html/) - The web framework used [1]
 * [npm](https://docs.npmjs.com//) - Dependency Management [2]
 * [Tailwnd css](https://tailwindcss.com/docs/installation)- Used for application CSS [3]
+* [Agora](https://github.com/AgoraIO/Agora-React-SDK)- Used for the Video streaming service[6]
+* [Render](https://render.com/)- Used for backend application deployment [7]
+
 
 ## Sources Used
 
